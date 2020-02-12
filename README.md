@@ -1,5 +1,5 @@
 # Discrete-Taylor-Series
-This is a implementation of a taylor series using discrete variables
+This is a implementation of a taylor series using discrete variables.
 Taylor series is described as follows:
 
 
